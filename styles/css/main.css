@@ -1,6 +1,7 @@
 body {
   background-color: #d6e2f0;
   height: 100vh;
+  font-family: 'Outfit', sans-serif;
   display: flex;
   justify-content: center;
   align-items: center; }
