@@ -1,0 +1,28 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "A frontendmaster.io challenge",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w styles/scss/ -o styles/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radanovicnikola93/qr-code-component.git"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "css",
+    "sass"
+  ],
+  "author": "Nikola Radanovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radanovicnikola93/qr-code-component/issues"
+  },
+  "homepage": "https://github.com/radanovicnikola93/qr-code-component#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
